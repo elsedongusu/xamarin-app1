@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{BC191845-8970-4EFB-893D-FAD59AE34935}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tutorial1/Views/TabPage2.xaml">
+    <Files>
+      <File FileName="Tutorial1/MasterDetailPage1.cs" Line="1" Column="1" />
+      <File FileName="Tutorial1/App.xaml.cs" Line="14" Column="21" />
+      <File FileName="Tutorial1/Views/MyMasterPage.xaml" Line="9" Column="77" />
+      <File FileName="Tutorial1/Views/MyDetailPage.xaml" Line="1" Column="1" />
+      <File FileName="Tutorial1/Views/MyMasterPage.xaml.cs" Line="26" Column="50" />
+      <File FileName="Tutorial1/Views/NewDetailPage.xaml" Line="4" Column="94" />
+      <File FileName="Tutorial1/Views/NewDetailPage.xaml.cs" Line="15" Column="10" />
+      <File FileName="Tutorial1/MyTabbedPage.cs" Line="11" Column="42" />
+      <File FileName="Tutorial1/Views/TabPage1.xaml" Line="4" Column="60" />
+      <File FileName="Tutorial1/Views/TabPage2.xaml" Line="4" Column="56" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Tutorial1.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.35ADFB47-F51D-4643-B61D-DAAA49ABE621" />
+  <MonoDevelop.Ide.ItemProperties.Tutorial1.Android PreferredExecutionTarget="Android.7_0_nougat_api24" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
+  <MultiItemStartupConfigurations />
+</Properties>
